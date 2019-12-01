@@ -1,5 +1,7 @@
 # Maxxa Public Blockchain ( For trainning )
 
+Block Explorer : http://maxxa.069thailand.com 
+
 Specification :
 
 Block time : around 9 second faster than original Ehereum as using 14 second.
