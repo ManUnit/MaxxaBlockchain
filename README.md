@@ -1,4 +1,4 @@
-# Maxxa Public Blockchain
+# Maxxa Public Blockchain ( For trainning )
 
 Specification :
 
