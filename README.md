@@ -11,7 +11,7 @@ Mining reware : 0 / block + Transaction fee reward by user pay the gas
 
 Ethereum fork by : Anan P.
 
-# download and run complied below for each OS system
+# download and run complied below for each OS system it was build-in genesis in files no need to init genesis again 
 
 file : maxxad-linux-armv7	for Rasberri PI III Arm version 7
 
