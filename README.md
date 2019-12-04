@@ -1,4 +1,4 @@
-# Maxxa Public Blockchain ( For trainning )
+# Maxxa Public Blockchain ( For demo )
 
 Block Explorer : http://maxxa.069thailand.com 
 
@@ -24,6 +24,8 @@ Contract for FAIT MINR : 0xc5089fa9e9706a540fb65f9973eca0c4562d3501
 
 Contract for FAIT MUSD : 0x6d997eb4b3aa899c3ca0c287ace08b9a0566d8c5  
 
+# Blockchain genesis code
+```
 
 
 {
@@ -53,3 +55,6 @@ Contract for FAIT MUSD : 0x6d997eb4b3aa899c3ca0c287ace08b9a0566d8c5
 }
 
 }
+
+
+```
