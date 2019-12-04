@@ -27,14 +27,16 @@ Contract for FAIT MUSD : 0x6d997eb4b3aa899c3ca0c287ace08b9a0566d8c5
 # Blockchain genesis code
 ```
 
-
+pharaoh@aveth-testnet-001:/opt/src/maxxa$ cat genesis.json 
 {
-        "config":{        
+        "config":{
         "chainId":2345890,
         "homesteadBlock":0,
+        "eip150Block":0,
         "eip155Block":0,
-        "eip158Block":0
-},
+        "eip158Block":0,
+        "byzantiumBlock":100
+       },
 
         "coinbase":"0xc3992c21147be20f1661c484e0efd88527b54af6",
         "difficulty":"10000",
@@ -45,16 +47,14 @@ Contract for FAIT MUSD : 0x6d997eb4b3aa899c3ca0c287ace08b9a0566d8c5
         "parentHash":"0x0000000000000000000000000000000000000000000000000000000000000000",
         "timestamp":"0x5C29A41F",
         "alloc":{
-                "0xadccf315ca305deed743faf0f31729c1715709d1":{"balance":"0"}
-                ,"0xffa7fa59314ecd443f28b8bb9c02eee4678abeb7":{"balance":"100000000000000000000000000"}
-                ,"0x24a23bf0370c57ec140e57763cc95160e9e9c9ca":{"balance":"95000000000000000000000000"}
-                ,"0xce1243e932da83072f3d446e64ef1c21edec9c60":{"balance":"5000000000000000000000000"}
-                ,"0x4205b4ba8aea29cc4ab053e17eb9a162cb64c45c":{"balance":"0"}
-                ,"0xcbc5bed25f7a2fa42bc74ee45c5e367b229853be":{"balance":"0"}
+                "0xda74239552b5f1c388cb45cc0bac70fe707bb61e":{"balance":"0"}
+                ,"0xadccf315ca305deed743faf0f31729c1715709d1":{"balance":"100000000000000000000000000"}
+                ,"0xffa7fa59314ecd443f28b8bb9c02eee4678abeb7":{"balance":"95000000000000000000000000"}
+                ,"0x24a23bf0370c57ec140e57763cc95160e9e9c9ca":{"balance":"5000000000000000000000000"}
+                ,"0x4205b4ba8aea29cc4ab053e17eb9a162cb64c45c":{"balance":"78900000000000000000000000"}
+                ,"0xce1243e932da83072f3d446e64ef1c21edec9c60":{"balance":"20000000000000000000000000"}
                 ,"0xc82a7bc4f0c70b10cbaaa6850135f9b0cda05081":{"balance":"0"}
-}
+        }
 
 }
-
-
 ```
