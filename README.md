@@ -11,13 +11,13 @@ Mining reware : 0 / block + Transaction fee reward by user pay the gas
 
 Ethereum fork by : Anan P.
 
-# run complied below for each OS system
+# download and run complied below for each OS system
 
-maxxad-linux-armv7	for Rasberri PI III Arm version 7
+file : maxxad-linux-armv7	for Rasberri PI III Arm version 7
 
-maxxad-linux64      for Linux
+file : maxxad-linux64      for Linux
 
-maxxad-windows-amd64.exe  for Windows 64bit
+file : maxxad-windows-amd64.exe  for Windows 64bit
 
 # Contracts was deployed 
 
