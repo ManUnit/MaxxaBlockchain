@@ -23,7 +23,7 @@ Contract for FAIT MUSD : 0x6d997eb4b3aa899c3ca0c287ace08b9a0566d8c5
 # Blockchain genesis code
 ```
 
-pharaoh@aveth-testnet-001:/opt/src/maxxa$ cat genesis.json 
+
 {
         "config":{
         "chainId":2345890,
