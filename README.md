@@ -11,8 +11,15 @@ Mining reware : 0 / block + Transaction fee reward by user pay the gas
 
 Ethereum fork by : Anan P.
 
+# run complied below for each OS system
 
+maxxad-linux-armv7	for Rasberri PI III Arm version 7
 
+maxxad-linux64      for Linux
+
+maxxad-windows-amd64.exe  for Windows 64bit
+
+# Contracts was deployed 
 
 Contract for FAIT  DMC: 0x03e75c146937b5ac465c50175a4e934cadd3b0bc
 
