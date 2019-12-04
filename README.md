@@ -44,7 +44,7 @@ Contract for FAIT MINR : 0xc5089fa9e9706a540fb65f9973eca0c4562d3501
 
 Contract for FAIT MUSD : 0x6d997eb4b3aa899c3ca0c287ace08b9a0566d8c5  
 
-# Blockchain genesis code donwload compiled files in this respository were build-in genesis you can run without genesis again 
+# Blockchain genesis code download compiled files in this respository were build-in genesis you can run without genesis again 
 ```
 
 
