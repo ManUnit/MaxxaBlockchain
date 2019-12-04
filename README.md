@@ -24,6 +24,7 @@ file : maxxad-windows-amd64.exe  for Windows 64bit
 
 Windows : 
 
+```
 c:\> maxxad-windows-amd64.exe  --rpc --rpcport 9971 --rpcapi admin,personal,net,web3,eth --datadir MAXXA
 
 Connect console run new cmd.exe as below command :   
@@ -34,6 +35,7 @@ or
 
 c:\> maxxad-windows-amd64.exe attach RPC:http://127.0.0.1:9971
 
+```
 # Contracts was deployed 
 
 Contract for FAIT  DMC: 0x03e75c146937b5ac465c50175a4e934cadd3b0bc
