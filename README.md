@@ -19,6 +19,21 @@ file : maxxad-linux64      for Linux
 
 file : maxxad-windows-amd64.exe  for Windows 64bit
 
+
+# running blockchain Example : 
+
+Windows : 
+
+c:\> maxxad-windows-amd64.exe  --rpc --rpcport 9971 --rpcapi admin,personal,net,web3,eth --datadir MAXXA
+
+Connect console run new cmd.exe as below command :   
+
+c:\> maxxad-windows-amd64.exe attach  IPC:MAXXA/geth.ipc  
+
+or 
+
+c:\> maxxad-windows-amd64.exe attach RPC:http://127.0.0.1:9971
+
 # Contracts was deployed 
 
 Contract for FAIT  DMC: 0x03e75c146937b5ac465c50175a4e934cadd3b0bc
@@ -27,7 +42,7 @@ Contract for FAIT MINR : 0xc5089fa9e9706a540fb65f9973eca0c4562d3501
 
 Contract for FAIT MUSD : 0x6d997eb4b3aa899c3ca0c287ace08b9a0566d8c5  
 
-# Blockchain genesis code
+# Blockchain genesis code donwload compiled files in this respository were build-in genesis you can run without genesis again 
 ```
 
 
