@@ -4,7 +4,7 @@ Block Explorer : http://maxxa.069thailand.com
 
 Specification :
 
-Block time : around 9 second faster than original Ehereum as using 14 second.
+Block time : around 9 second faster than original Ethereum using 14 second.
 
 Mining reware : 0 / block + Transaction fee reward by user pay the gas
 
